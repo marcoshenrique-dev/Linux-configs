@@ -1,0 +1,23 @@
+### My Extensions 
+
+- Watch in Chrome
+- Rocketseat ReactJS
+- Rocketseat React-Native
+- Vscode-icons
+- vscode-styled-components
+- React Native Tools
+- Python
+- npm
+- MySQL
+- Markdown Preview
+- Live Server
+- GitLens
+- Github Pull Requests and Issues
+- Beautify
+- Bracket Pair Colorizer
+- Color Highlight
+- Dart
+- Dracula Official
+- EditorConfig for VS Code
+- ESLint
+- Flutter
