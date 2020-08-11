@@ -1,0 +1,42 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [80,120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.tabSize": 3,
+    "terminal.integrated.fontSize": 16,
+    "files.autoSave": "off",
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "meu teste"
+    ],
+    "dart.previewFlutterUiGuides": true,
+   "workbench.iconTheme": "material-icon-theme",
+
+    "emmet.syntaxProfiles": {"javascript" : "jsx"},
+    "emmet.includeLanguages": {"javascript" : "javascriptreact"},
+    "editor.parameterHints.enabled": false,
+    "breadcrumbs.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.colorTheme": "Dracula",
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
+   
+
+}
